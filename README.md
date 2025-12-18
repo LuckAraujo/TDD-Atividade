@@ -6,17 +6,16 @@ Sistema desenvolvido em Python para cálculo de salário líquido, aplicando cor
 
 Tecnologias
 
-Python — linguagem simples, legível e adequada para cálculos financeiros
-VS Code — ambiente de desenvolvimento
-Testes automatizados — suporte nativo da linguagem
+Python
+VS Code 
 
 
 Atributos de Qualidade
 
-Confiabilidade: cálculos corretos e tratamento de entradas inválidas
-Testabilidade: código projetado para testes automatizados
-Manutenibilidade: estrutura modular e fácil de alterar
-Legibilidade: código seguindo o padrão PEP 8
+Confiabilidade
+Testabilidade
+Manutenibilidade
+Legibilidade
 
 Métricas de Software
 
